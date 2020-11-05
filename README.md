@@ -12,3 +12,4 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 1
 
 - [Welcome to Technical Interview Preparation](https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep)
+- [Algorithmic Problem Solving](https://github.com/learn-co-curriculum/algorithmic-problem-solving)
