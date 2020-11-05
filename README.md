@@ -14,3 +14,4 @@ This repo links to all of the repos and outside sources containing content requi
 - [Welcome to Technical Interview Preparation](https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep)
 - [Algorithmic Problem Solving](https://github.com/learn-co-curriculum/algorithmic-problem-solving)
 - [A Note on Testing](https://github.com/learn-co-curriculum/note-on-testing)
+- [Problem-Solving Tips](https://github.com/learn-co-curriculum/problem-solving-tips)
