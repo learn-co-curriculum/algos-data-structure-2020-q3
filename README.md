@@ -6,3 +6,9 @@ This repo links to all of the repos and outside sources containing content requi
 
 - [In-person Module Welcome Text](https://github.com/learn-co-curriculum/welcome-to-algorithms-and-data-structures-inperson)
 - [Online Module Welcome Text](https://github.com/learn-co-curriculum/welcome-to-algorithms-and-data-structures-online)
+
+## Phase 1
+
+### Week 1
+
+- [Welcome to Technical Interview Preparation](https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep)
