@@ -4,5 +4,5 @@ This repo links to all of the repos and outside sources containing content requi
 
 [Folder containing content as docs](https://drive.google.com/drive/folders/1Ge8KhRw__6bAnX8nF77ndnX7x2dS4oBN?usp=sharing)
 
-- [In-person Module Welcome Text]()
+- [In-person Module Welcome Text](https://github.com/learn-co-curriculum/welcome-to-algorithms-and-data-structures-inperson)
 - [Online Module Welcome Text](https://github.com/learn-co-curriculum/welcome-to-algorithms-and-data-structures-online)
