@@ -9,9 +9,13 @@ This repo links to all of the repos and outside sources containing content requi
 
 ## Phase 1
 
-### Week 1
+### Welcome
 
 - [Welcome to Technical Interview Preparation](https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep)
 - [Algorithmic Problem Solving](https://github.com/learn-co-curriculum/algorithmic-problem-solving)
 - [A Note on Testing](https://github.com/learn-co-curriculum/note-on-testing)
 - [Problem-Solving Tips](https://github.com/learn-co-curriculum/problem-solving-tips)
+
+### Week 1
+
+- [Week 1 Day 1: Reverse a String](https://github.com/learn-co-curriculum/reverse-string)
