@@ -19,3 +19,4 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 1
 
 - [Day 1: Reverse a String](https://github.com/learn-co-curriculum/reverse-string)
+- [Day 2: Find First Duplicate](https://github.com/learn-co-curriculum/find-first-duplicate)
