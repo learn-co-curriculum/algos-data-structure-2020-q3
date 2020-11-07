@@ -22,3 +22,4 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 2: Find First Duplicate](https://github.com/learn-co-curriculum/find-first-duplicate)
 - [Day 3: Fibonacci Series](https://github.com/learn-co-curriculum/fibonacci-series)
 - [Day 4: Selection Sort](https://github.com/learn-co-curriculum/selection-sort)
+- [Day 5: Find Shortest String](https://github.com/learn-co-curriculum/find-shortest-string)
