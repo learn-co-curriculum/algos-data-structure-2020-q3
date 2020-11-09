@@ -23,3 +23,12 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 3: Fibonacci Series](https://github.com/learn-co-curriculum/fibonacci-series)
 - [Day 4: Selection Sort](https://github.com/learn-co-curriculum/selection-sort)
 - [Day 5: Find Shortest String](https://github.com/learn-co-curriculum/find-shortest-string)
+
+### Week 2
+
+- [Introduction to Recursion](https://github.com/learn-co-curriculum/introduction-to-recursion)
+- [Day 1: Recursive Loop]()
+- [Day 2: Recursive Search]()
+- [Day 3: Recursive Fibonacci Series]()
+- [Day 4: Recursive Find Shorest String]()
+- [Day 5: Recursive Selection Sort]()
