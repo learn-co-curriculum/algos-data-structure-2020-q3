@@ -28,7 +28,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 - [Introduction to Recursion](https://github.com/learn-co-curriculum/introduction-to-recursion)
 - [Day 1: Recursive Counting](https://github.com/learn-co-curriculum/recursive-count)
-- [Day 2: Recursive Search]()
+- [Day 2: Recursive Search](https://github.com/learn-co-curriculum/recursive-search)
 - [Day 3: Recursive Fibonacci Series]()
 - [Day 4: Recursive Find Shorest String]()
 - [Day 5: Recursive Selection Sort]()
