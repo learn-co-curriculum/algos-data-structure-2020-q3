@@ -30,5 +30,5 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 1: Recursive Counting](https://github.com/learn-co-curriculum/recursive-count)
 - [Day 2: Recursive Search](https://github.com/learn-co-curriculum/recursive-search)
 - [Day 3: Recursive Fibonacci Series](https://github.com/learn-co-curriculum/fibonacci-recursive)
-- [Day 4: Recursive Find Shortest String]()
+- [Day 4: Recursive Find Shortest String](https://github.com/learn-co-curriculum/find-shortest-string-recursive)
 - [Day 5: Recursive Selection Sort]()
