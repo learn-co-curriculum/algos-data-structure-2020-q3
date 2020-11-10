@@ -7,14 +7,14 @@ This repo links to all of the repos and outside sources containing content requi
 - [In-person Module Welcome Text](https://github.com/learn-co-curriculum/welcome-to-algorithms-and-data-structures-inperson)
 - [Online Module Welcome Text](https://github.com/learn-co-curriculum/welcome-to-algorithms-and-data-structures-online)
 
-## Phase 1
-
-### Welcome
+## Welcome
 
 - [Welcome to Technical Interview Preparation](https://github.com/learn-co-curriculum/welcome-to-technical-interview-prep)
 - [Algorithmic Problem Solving](https://github.com/learn-co-curriculum/algorithmic-problem-solving)
 - [A Note on Testing](https://github.com/learn-co-curriculum/note-on-testing)
 - [Problem-Solving Tips](https://github.com/learn-co-curriculum/problem-solving-tips)
+
+## Phase 1
 
 ### Week 1
 
@@ -32,3 +32,11 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 3: Recursive Fibonacci Series](https://github.com/learn-co-curriculum/fibonacci-recursive)
 - [Day 4: Recursive Find Shortest String](https://github.com/learn-co-curriculum/find-shortest-string-recursive)
 - [Day 5: Recursive Selection Sort](https://github.com/learn-co-curriculum/selection-sort-recursive)
+
+### Week 3
+
+- [Bonus 1: Balancing Parenethesis]()
+- [Bonus 2: Roman Numeral to Integer]()
+- [Bonus 3: Rotate Array Clockwise]()
+- [Bonus 4: Distinct Pair Sum]()
+- [Bonus 5: Consecutive Substrings]()
