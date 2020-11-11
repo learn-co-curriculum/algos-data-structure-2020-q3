@@ -38,5 +38,5 @@ This repo links to all of the repos and outside sources containing content requi
 - [Bonus 1: Balancing Parenetheses](https://github.com/learn-co-curriculum/balancing-parentheses)
 - [Bonus 2: Roman Numeral to Integer](https://github.com/learn-co-curriculum/roman-numeral-to-integer)
 - [Bonus 3: Rotate Array Clockwise](https://github.com/learn-co-curriculum/rotate-array-clockwise)
-- [Bonus 4: Distinct Pair Sum]()
+- [Bonus 4: Distinct Pair Sum](https://github.com/learn-co-curriculum/distinct-pair-sum)
 - [Bonus 5: Consecutive Substrings]()
