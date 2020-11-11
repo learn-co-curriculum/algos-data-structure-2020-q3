@@ -35,7 +35,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 3
 
-- [Bonus 1: Balancing Parenethesis]()
+- [Bonus 1: Balancing Parenetheses](https://github.com/learn-co-curriculum/balancing-parentheses)
 - [Bonus 2: Roman Numeral to Integer]()
 - [Bonus 3: Rotate Array Clockwise]()
 - [Bonus 4: Distinct Pair Sum]()
