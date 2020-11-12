@@ -41,7 +41,7 @@ This repo links to all of the repos and outside sources containing content requi
 - [Bonus 4: Distinct Pair Sum](https://github.com/learn-co-curriculum/distinct-pair-sum)
 - [Bonus 5: Consecutive Substrings](https://github.com/learn-co-curriculum/consecutive-substrings)
 
-## Phase 2: Big-O Notation and Foundational Data Structures
+## Phase 2: Big-O and Foundational Data Structures
 
 ### Week 1
 
