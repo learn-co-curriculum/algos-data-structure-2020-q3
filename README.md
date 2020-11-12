@@ -14,7 +14,7 @@ This repo links to all of the repos and outside sources containing content requi
 - [A Note on Testing](https://github.com/learn-co-curriculum/note-on-testing)
 - [Problem-Solving Tips](https://github.com/learn-co-curriculum/problem-solving-tips)
 
-## Phase 1
+## Phase 1: Starter Algorithms and Basic Benchmarking
 
 ### Week 1
 
@@ -40,3 +40,16 @@ This repo links to all of the repos and outside sources containing content requi
 - [Bonus 3: Rotate Array Clockwise](https://github.com/learn-co-curriculum/rotate-array-clockwise)
 - [Bonus 4: Distinct Pair Sum](https://github.com/learn-co-curriculum/distinct-pair-sum)
 - [Bonus 5: Consecutive Substrings](https://github.com/learn-co-curriculum/consecutive-substrings)
+
+## Phase 2: Big-O Notation and Foundational Data Structures
+
+### Week 1
+
+- [Day 1: Big-O Notation]()
+- [Day 1: Time-complexity Quiz]()
+- [Day 2: Space Complexity]()
+- [Day 2: Space Complexity Quiz]()
+- [Day 3: Work Out Big-O Quiz Part 1]()
+- [Day 4: Work Out Big-O Quiz Part 2]()
+- [Day 5: Big-O Review Quiz]()
+- [Bonus Algorithm: Recursive String Reverse]()
