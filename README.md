@@ -46,7 +46,7 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 1
 
 - [Day 1: Introduction to Big O Notation](https://github.com/learn-co-curriculum/intro-to-big-o)
-- [Day 1: Time-complexity Quiz]()
+- [Day 1: Time Complexity Quiz](https://github.com/learn-co-curriculum/time-complexity-quiz)
 - [Day 2: Space Complexity]()
 - [Day 2: Space Complexity Quiz]()
 - [Day 3: Work Out Big O Quiz Part 1]()
