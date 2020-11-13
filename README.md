@@ -41,15 +41,15 @@ This repo links to all of the repos and outside sources containing content requi
 - [Bonus 4: Distinct Pair Sum](https://github.com/learn-co-curriculum/distinct-pair-sum)
 - [Bonus 5: Consecutive Substrings](https://github.com/learn-co-curriculum/consecutive-substrings)
 
-## Phase 2: Big-O and Foundational Data Structures
+## Phase 2: Big O and Foundational Data Structures
 
 ### Week 1
 
-- [Day 1: Big-O Notation]()
+- [Day 1: Introduction to Big O Notation](https://github.com/learn-co-curriculum/intro-to-big-o)
 - [Day 1: Time-complexity Quiz]()
 - [Day 2: Space Complexity]()
 - [Day 2: Space Complexity Quiz]()
-- [Day 3: Work Out Big-O Quiz Part 1]()
-- [Day 4: Work Out Big-O Quiz Part 2]()
+- [Day 3: Work Out Big O Quiz Part 1]()
+- [Day 4: Work Out Big O Quiz Part 2]()
 - [Day 5: Big-O Review Quiz]()
 - [Bonus Algorithm: Recursive String Reverse]()
