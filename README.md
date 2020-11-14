@@ -49,7 +49,7 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 1: Time Complexity Quiz](https://github.com/learn-co-curriculum/time-complexity-quiz)
 - [Day 2: Introduction to Space Complexity](https://github.com/learn-co-curriculum/intro-to-space-complexity)
 - [Day 2: Space Complexity Quiz](https://github.com/learn-co-curriculum/space-complexity-quiz)
-- [Day 3: Work Out Big O Quiz Part 1]()
+- [Day 3: Work Out Big O Quiz Part 1](https://github.com/learn-co-curriculum/big-o-quiz-part-1)
 - [Day 4: Work Out Big O Quiz Part 2]()
 - [Day 5: Big-O Review Quiz]()
 - [Bonus Algorithm: Recursive String Reverse]()
