@@ -53,6 +53,6 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 4: Work Out Big O Quiz Part 2](https://github.com/learn-co-curriculum/big-o-quiz-part-2)
 - [Day 5: Big-O Review Quiz](https://github.com/learn-co-curriculum/big-o-review-quiz)
 
-## Week 3
+### Week 3
 
 - [Bonus Algorithm: Recursive String Reverse]()
