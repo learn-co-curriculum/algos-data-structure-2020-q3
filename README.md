@@ -53,6 +53,18 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 4: Work Out Big O Quiz Part 2](https://github.com/learn-co-curriculum/big-o-quiz-part-2)
 - [Day 5: Big-O Review Quiz](https://github.com/learn-co-curriculum/big-o-review-quiz)
 
+### Week 2
+
+- [Day 1: What Is a Stack?]()
+- [Days 1 to 2: Implement a Stack Class]()
+- [Day 2: Big O Stack Quiz]()
+- [Day 3: What Is a Queue?]()
+- [Days 3 to 4: Implement a Queue Class]()
+- [Day 4: Big O Queue Quiz]()
+- [Day 5: What is a Set?]()
+- [Day 5: Implement a Set]()
+- [Day 5: Big O Set Quiz]()
+
 ### Week 3
 
 - [Bonus Algorithm: Recursive String Reverse]()
