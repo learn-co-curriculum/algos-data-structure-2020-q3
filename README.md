@@ -56,7 +56,7 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 2
 
 - [Days 1 to 2: Implement a Stack Class](https://github.com/learn-co-curriculum/what-is-a-stack)
-- [Day 2: Big O Stack Quiz]()
+- [Day 2: Big O Stack Quiz](https://github.com/learn-co-curriculum/big-o-stack-quiz)
 - [Day 3: What Is a Queue?]()
 - [Days 3 to 4: Implement a Queue Class]()
 - [Day 4: Big O Queue Quiz]()
