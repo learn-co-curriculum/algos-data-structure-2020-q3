@@ -64,4 +64,11 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 3
 
+- [Days 1 to 2: Implement a Linked List]()
+- [Day 2: Big O Linked List Quiz]()
+- [Day 3: Underneath Arrays]()
+- [Day 4: Underneath Hashes]()
+- [Day 5: Data Structure Quiz]()
 - [Bonus Algorithm: Recursive String Reverse]()
+- [Bonus: Modify Linked List to Track Tail and Size]()
+- [Bonus: Build a Doubly Linked List]()
