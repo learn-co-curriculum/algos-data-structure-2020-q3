@@ -70,6 +70,6 @@ This repo links to all of the repos and outside sources containing content requi
 - ***Rewrite below item if time***
 - [Day 4: Underneath Hashes](https://github.com/learn-co-curriculum/hash-table)
 - [Day 5: Data Structure Quiz](https://github.com/learn-co-curriculum/data-structure-quiz)
-- [Bonus Algorithm: Recursive String Reverse]()
+- [Bonus Algorithm: Recursive String Reverse](https://github.com/learn-co-curriculum/recursive-string-reverse)
 - [Bonus: Modify Linked List to Track Tail and Size]()
 - [Bonus: Build a Doubly Linked List]()
