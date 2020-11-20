@@ -65,7 +65,7 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 3
 
 - [Days 1 to 2: Implement a Linked List](https://github.com/learn-co-curriculum/what-is-a-linked-list)
-- [Day 2: Big O Linked List Quiz]()
+- [Day 2: Big O Linked List Quiz](https://github.com/learn-co-curriculum/big-o-linked-list-quiz)
 - [Day 3: Underneath Arrays]()
 - [Day 4: Underneath Hashes]()
 - [Day 5: Data Structure Quiz]()
