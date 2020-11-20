@@ -66,9 +66,10 @@ This repo links to all of the repos and outside sources containing content requi
 
 - [Days 1 to 2: Implement a Linked List](https://github.com/learn-co-curriculum/what-is-a-linked-list)
 - [Day 2: Big O Linked List Quiz](https://github.com/learn-co-curriculum/big-o-linked-list-quiz)
-- [Day 3: Underneath Arrays]()
-- [Day 4: Underneath Hashes]()
-- [Day 5: Data Structure Quiz]()
+- [Day 3: Underneath Arrays](https://github.com/learn-co-curriculum/arrays-underneath)
+- ***Rewrite below item if time***
+- [Day 4: Underneath Hashes](https://github.com/learn-co-curriculum/hash-table)
+- [Day 5: Data Structure Quiz](https://github.com/learn-co-curriculum/data-structure-quiz)
 - [Bonus Algorithm: Recursive String Reverse]()
 - [Bonus: Modify Linked List to Track Tail and Size]()
 - [Bonus: Build a Doubly Linked List]()
