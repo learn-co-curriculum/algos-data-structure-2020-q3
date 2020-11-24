@@ -71,5 +71,5 @@ This repo links to all of the repos and outside sources containing content requi
 - [Day 4: Underneath Hashes](https://github.com/learn-co-curriculum/hash-table)
 - [Day 5: Data Structure Quiz](https://github.com/learn-co-curriculum/data-structure-quiz)
 - [Bonus Algorithm: Recursive String Reverse](https://github.com/learn-co-curriculum/recursive-string-reverse)
-- [Bonus: Modify Linked List to Track Tail and Size]()
+- [Bonus: Modify Linked List to Track Tail and Size](https://github.com/learn-co-curriculum/linked-list-with-tail-and-size)
 - [Bonus: Build a Doubly Linked List]()
