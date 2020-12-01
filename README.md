@@ -78,7 +78,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 1
 
-- [Days 1 to 2: Bubble Sort]()
+- [Days 1 to 2: Bubble Sort](https://github.com/learn-co-curriculum/bubble-sort)
 - [Days 3 to 5: Merge Sort]()
 
 ### Week 2
