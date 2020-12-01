@@ -73,3 +73,23 @@ This repo links to all of the repos and outside sources containing content requi
 - [Bonus Algorithm: Recursive String Reverse](https://github.com/learn-co-curriculum/recursive-string-reverse)
 - [Bonus: Modify Linked List to Track Tail and Size](https://github.com/learn-co-curriculum/linked-list-with-tail-and-size)
 - [Bonus: Build a Doubly Linked List](https://github.com/learn-co-curriculum/doubly-linked-list)
+
+## Phase 3: Big O and Sorting and Searching
+
+### Week 1
+
+- [Days 1 to 2: Bubble Sort]()
+- [Days 3 to 5: Merge Sort]()
+
+### Week 2
+
+- [Days 1 to 3: Binary Search]()
+- [Day 4: Manual Binary Tree]()
+- [Day 5: Build a Binary Tree + Balancing]()
+
+### Week 3
+
+- [Days 1 to 2: Binary Tree Traversal Breadth-First]()
+- [Days 3 to 4: Binary Tree Traversal In-Order]()
+- [Day 5: Find Value in Binary Tree]()
+- [Bonus: Quicksort]()
