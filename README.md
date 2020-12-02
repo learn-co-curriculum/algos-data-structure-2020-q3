@@ -26,6 +26,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 2
 
+***Rethink if time and add supporting videos, doc on recursive approaches***
 - [Introduction to Recursion](https://github.com/learn-co-curriculum/introduction-to-recursion)
 - [Day 1: Recursive Counting](https://github.com/learn-co-curriculum/recursive-count)
 - [Day 2: Recursive Search](https://github.com/learn-co-curriculum/recursive-search)
