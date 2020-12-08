@@ -85,7 +85,7 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 2
 
 - [Days 1 to 3: Binary Search](https://github.com/learn-co-curriculum/binary-search)
-- [Day 4: Manual Binary Tree]()
+- [Day 4: Manual Binary Tree](https://github.com/learn-co-curriculum/binary-search-tree-manual)
 - [Day 5: Build a Binary Tree + Balancing]()
 
 ### Week 3
