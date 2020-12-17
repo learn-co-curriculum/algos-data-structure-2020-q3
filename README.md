@@ -90,7 +90,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 3
 
-- [Days 1 to 2: Binary Tree Traversal Breadth-First]()
+- [Days 1 to 2: Binary Tree Traversal: Level-Order / Breadth-First](https://github.com/learn-co-curriculum/level-order-tree-traversal)
 - [Days 3 to 4: Binary Tree Traversal In-Order]()
 - [Day 5: Find Value in Binary Tree]()
 - [Bonus: Quicksort]()
