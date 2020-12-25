@@ -92,5 +92,5 @@ This repo links to all of the repos and outside sources containing content requi
 
 - [Days 1 to 2: Binary Tree Traversal: Level-Order / Breadth-First](https://github.com/learn-co-curriculum/level-order-tree-traversal)
 - [Days 3 to 4: Binary Tree Traversal In-Order](https://github.com/learn-co-curriculum/tree-traversal-inorder)
-- [Day 5: Find Value in Binary Tree]()
+- [Day 5: Find Value in Binary Tree](https://github.com/learn-co-curriculum/find-value-binary-tree)
 - [Bonus: Quicksort]()
