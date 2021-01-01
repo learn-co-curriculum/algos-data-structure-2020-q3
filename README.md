@@ -94,3 +94,22 @@ This repo links to all of the repos and outside sources containing content requi
 - [Days 3 to 4: Binary Tree Traversal In-Order](https://github.com/learn-co-curriculum/tree-traversal-inorder)
 - [Day 5: Find Value in Binary Tree](https://github.com/learn-co-curriculum/find-value-binary-tree)
 - [Bonus: Quicksort](https://github.com/learn-co-curriculum/quicksort)
+
+## Phase 4: Big O and Advanced Data Structures
+
+### Week 1
+
+- [Days 1 to 3: Dynamic vs Static Arrays]()
+- [Days 4 to 5: Build Your Own Hash]()
+
+### Week 2
+
+- [Day 1: What Is a Graph?]()
+- [Days 2 to 3: Depth-first Graph Traversal]()
+- [Days 4 to 5: Breadth-first Graph Traversal]()
+
+### Week 3
+
+- [Days 1 to 2: Convert HTML to a Graph]()
+- [Bonus: Implement a Trie (Prefix Tree)]()
+- [Bonus: Build an LRU Cache]()
