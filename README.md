@@ -104,7 +104,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 2
 
-- [Day 1: What Is a Graph?]()
+- [Day 1: What Is a Graph?](https://github.com/learn-co-curriculum/what-is-a-graph)
 - [Days 2 to 3: Depth-first Graph Traversal]()
 - [Days 4 to 5: Breadth-first Graph Traversal]()
 
