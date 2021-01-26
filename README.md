@@ -99,8 +99,8 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 1
 
-- [Days 1 to 3: Dynamic vs Static Arrays]()
-- [Days 4 to 5: Build Your Own Hash]()
+- [Days 1 to 3: Create a Queue Class Using Nodes]()
+- [Days 4 to 5: Create a Stack Class Using Nodes]()
 
 ### Week 2
 
@@ -110,6 +110,6 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 3
 
-- [Days 1 to 2: Convert HTML to a Graph]()
+- [Days 1 to 2: Convert HTML to a Graph](https://github.com/learn-co-curriculum/table-to-graph)
 - [Bonus: Implement a Trie (Prefix Tree)]()
 - [Bonus: Build an LRU Cache]()
