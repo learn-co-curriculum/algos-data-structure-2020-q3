@@ -100,7 +100,7 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 1
 
 - [Days 1 to 2: Create a Queue Class Using Nodes](https://github.com/learn-co-curriculum/queue-with-nodes)
-- [Days 3 to 5: Build an LRU Cache]()
+- [Days 3 to 5: Build an LRU Cache](https://github.com/learn-co-curriculum/lru-cache)
 
 ### Week 2
 
