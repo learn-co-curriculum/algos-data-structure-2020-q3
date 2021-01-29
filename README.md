@@ -99,7 +99,7 @@ This repo links to all of the repos and outside sources containing content requi
 
 ### Week 1
 
-- [Days 1 to 3: Create a Queue Class Using Nodes]()
+- [Days 1 to 3: Create a Queue Class Using Nodes](https://github.com/learn-co-curriculum/queue-with-nodes)
 - [Days 4 to 5: Create a Stack Class Using Nodes]()
 
 ### Week 2
