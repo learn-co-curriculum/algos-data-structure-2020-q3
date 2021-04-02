@@ -111,4 +111,11 @@ This repo links to all of the repos and outside sources containing content requi
 ### Week 3
 
 - [Days 1 to 2: Convert HTML to a Graph](https://github.com/learn-co-curriculum/table-to-graph)
-- [Bonus: Implement a Trie (Prefix Tree)]()
+
+## Phase 5: Advanced Algorithms and Dynamic Programming
+
+### Week 1
+
+- [Days 1 to 2: Dynamic Programming - Fibonacci Series](https://github.com/learn-co-curriculum/dynamic-programming)
+- [Days 3 to 5: Add Two Numbers - List Nodes](https://github.com/learn-co-curriculum/Add-Two-Numbers-List-Nodes)
+
