@@ -119,3 +119,11 @@ This repo links to all of the repos and outside sources containing content requi
 - [Days 1 to 2: Dynamic Programming - Fibonacci Series](https://github.com/learn-co-curriculum/dynamic-programming)
 - [Days 3 to 5: Add Two Numbers - List Nodes](https://github.com/learn-co-curriculum/Add-Two-Numbers-List-Nodes)
 
+### Week 2
+
+- [Days 1 to 2: Longest Substring Without Repeating Characters](https://github.com/learn-co-curriculum/Longest-Substring-Without-Repeating-Characters)
+- [Days 3 to 5: Validate BST](https://github.com/learn-co-curriculum/Validate-BST)
+
+### Week 3
+
+
